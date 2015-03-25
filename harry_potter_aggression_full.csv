@@ -1,0 +1,264 @@
+"Name","abb","book","aggressions","paragraphs","mentions","agg.per.mention","mentions.per.p","agg.weighted"
+"Harry","harr","The Sorcerer's Stone",3,3015,1074,0.00279329608938547,0.356218905472637,8.42178770949721
+"Hermione Granger","herm","The Sorcerer's Stone",3,3015,249,0.0120481927710843,0.0825870646766169,36.3253012048193
+"Voldemort","vold","The Sorcerer's Stone",0,3015,32,0,0.0106135986733002,0
+"Ron Wealsey","ronw","The Sorcerer's Stone",2,3015,513,0.00389863547758285,0.170149253731343,11.7543859649123
+"Severus Snape","snap","The Sorcerer's Stone",0,3015,148,0,0.0490878938640133,0
+"Albus Dumbledore","albu","The Sorcerer's Stone",0,3015,143,0,0.0474295190713101,0
+"Draco Malfoy","drac","The Sorcerer's Stone",1,3015,11,0.0909090909090909,0.00364842454394693,274.090909090909
+"Neville Longbottom","nevi","The Sorcerer's Stone",0,3015,101,0,0.0334991708126036,0
+"Minerva McGonagall","mcgo","The Sorcerer's Stone",0,3015,94,0,0.0311774461028192,0
+"Vincent Crabbe ","crab","The Sorcerer's Stone",0,3015,21,0,0.00696517412935323,0
+"Fred Weasley","fred","The Sorcerer's Stone",0,3015,34,0,0.0112769485903814,0
+"George Weasley","geor","The Sorcerer's Stone",0,3015,29,0,0.00961857379767828,0
+"Quirinus Quirrell","quir","The Sorcerer's Stone",5,3015,85,0.0588235294117647,0.0281923714759536,177.352941176471
+"Filius Flitwick","flit","The Sorcerer's Stone",0,3015,17,0,0.00563847429519071,0
+"Rubeus Hagrid","hagr","The Sorcerer's Stone",1,3015,329,0.00303951367781155,0.109121061359867,9.16413373860182
+"Cho Chang","choc","The Sorcerer's Stone",0,3015,110,0,0.0364842454394693,0
+"Peeves","peev","The Sorcerer's Stone",0,3015,31,0,0.0102819237147595,0
+"Percy Weasley","perc","The Sorcerer's Stone",0,3015,37,0,0.0122719734660033,0
+"Seamus Finnagin","seam","The Sorcerer's Stone",0,3015,17,0,0.00563847429519071,0
+"Fluffy","fluf","The Sorcerer's Stone",1,3015,26,0.0384615384615385,0.00862354892205638,115.961538461538
+"Greggory Goyle","goyl","The Sorcerer's Stone",0,3015,22,0,0.00729684908789386,0
+"Lee Jordan","leej","The Sorcerer's Stone",0,3015,11,0,0.00364842454394693,0
+"Madam Hooch","hooc","The Sorcerer's Stone",0,3015,12,0,0.00398009950248756,0
+"Harry","harr","The Chamber of Secrets",4,3373,1333,0.00300075018754689,0.395197153868959,10.1215303825956
+"Hermione Granger","herm","The Chamber of Secrets",0,3373,297,0,0.088052179069078,0
+"Voldemort","vold","The Chamber of Secrets",1,3373,31,0.032258064516129,0.00919063148532464,108.806451612903
+"Ron Wealsey","ronw","The Chamber of Secrets",1,3373,729,0.00137174211248285,0.216128075896828,4.62688614540466
+"Severus Snape","snap","The Chamber of Secrets",2,3373,77,0.025974025974026,0.0228283427216128,87.6103896103896
+"Albus Dumbledore","albu","The Chamber of Secrets",0,3373,141,0,0.0418025496590572,0
+"Draco Malfoy","drac","The Chamber of Secrets",3,3373,32,0.09375,0.00948710346872221,316.21875
+"Neville Longbottom","nevi","The Chamber of Secrets",0,3373,28,0,0.00830121553513193,0
+"Basilisk","basi","The Chamber of Secrets",12,3373,24,0.5,0.00711532760154165,1686.5
+"Minerva McGonagall","mcgo","The Chamber of Secrets",0,3373,80,0,0.0237177586718055,0
+"Ginny Wealsey","ginn","The Chamber of Secrets",0,3373,101,0,0.0299436703231545,0
+"Vincent Crabbe ","crab","The Chamber of Secrets",0,3373,30,0,0.00889415950192707,0
+"Dobby","dobb","The Chamber of Secrets",3,3373,106,0.0283018867924528,0.0314260302401423,95.4622641509434
+"Fred Weasley","fred","The Chamber of Secrets",0,3373,98,0,0.0290542543729618,0
+"George Weasley","geor","The Chamber of Secrets",0,3373,87,0,0.0257930625555885,0
+"Arthur Weasley","arth","The Chamber of Secrets",1,3373,18,0.0555555555555556,0.00533649570115624,187.388888888889
+"Rubeus Hagrid","hagr","The Chamber of Secrets",1,3373,136,0.00735294117647059,0.0403201897420694,24.8014705882353
+"Gilderoy Lockhart","lock","The Chamber of Secrets",3,3373,212,0.0141509433962264,0.0628520604802846,47.7311320754717
+"Ernie MacMillion","erni","The Chamber of Secrets",0,3373,26,0,0.00770827156833679,0
+"Fawkes","","The Chamber of Secrets",3,3373,27,0.111111111111111,0.00800474355173436,374.777777777778
+"Cho Chang","choc","The Chamber of Secrets",0,3373,146,0,0.0432849095760451,0
+"Dean Thomas","dean","The Chamber of Secrets",0,3373,15,0,0.00444707975096353,0
+"Peeves","peev","The Chamber of Secrets",0,3373,22,0,0.00652238363474652,0
+"Percy Weasley","perc","The Chamber of Secrets",0,3373,68,0,0.0201600948710347,0
+"Seamus Finnagin","seam","The Chamber of Secrets",0,3373,17,0,0.00504002371775867,0
+"Colin Creevey","coli","The Chamber of Secrets",0,3373,42,0,0.0124518233026979,0
+"Greggory Goyle","goyl","The Chamber of Secrets",0,3373,33,0,0.00978357545211977,0
+"Justin Finch-Fletchley","just","The Chamber of Secrets",0,3373,37,0,0.0109694633857101,0
+"Madam Pince","pinc","The Chamber of Secrets",0,3373,15,0,0.00444707975096353,0
+"Harry","harr","The Prisoner of Azkaban",26,4092,1662,0.0156438026474128,0.406158357771261,64.014440433213
+"Hermione Granger","herm","The Prisoner of Azkaban",4,4092,601,0.00665557404326123,0.146871945259042,27.234608985025
+"Voldemort","vold","The Prisoner of Azkaban",0,4092,40,0,0.00977517106549365,0
+"Ron Wealsey","ronw","The Prisoner of Azkaban",2,4092,866,0.0023094688221709,0.211632453567937,9.45034642032333
+"Severus Snape","snap","The Prisoner of Azkaban",1,4092,234,0.00427350427350427,0.0571847507331378,17.4871794871795
+"Albus Dumbledore","albu","The Prisoner of Azkaban",1,4092,143,0.00699300699300699,0.0349462365591398,28.6153846153846
+"Boggart","bogg","The Prisoner of Azkaban",13,4092,35,0.371428571428571,0.00855327468230694,1519.88571428571
+"Neville Longbottom","nevi","The Prisoner of Azkaban",2,4092,94,0.0212765957446809,0.0229716520039101,87.063829787234
+"Dementors","deme","The Prisoner of Azkaban",6,4092,129,0.0465116279069767,0.031524926686217,190.325581395349
+"Remus Lupin","remu","The Prisoner of Azkaban",7,4092,385,0.0181818181818182,0.0940860215053763,74.4
+"Minerva McGonagall","mcgo","The Prisoner of Azkaban",0,4092,98,0,0.0239491691104594,0
+"Sirius Black","siri","The Prisoner of Azkaban",6,4092,122,0.0491803278688525,0.0298142717497556,201.245901639344
+"Peter Pettigrew","worm","The Prisoner of Azkaban",3,4092,96,0.03125,0.0234604105571848,127.875
+"Ginny Wealsey","ginn","The Prisoner of Azkaban",0,4092,18,0,0.00439882697947214,0
+"Thorfinn Rowle","rowl","The Prisoner of Azkaban",0,4092,11,0,0.00268817204301075,0
+"Whomping Willow","will","The Prisoner of Azkaban",1,4092,24,0.0416666666666667,0.00586510263929619,170.5
+"Vincent Crabbe ","crab","The Prisoner of Azkaban",0,4092,32,0,0.00782013685239492,0
+"Fred Weasley","fred","The Prisoner of Azkaban",0,4092,72,0,0.0175953079178886,0
+"George Weasley","geor","The Prisoner of Azkaban",0,4092,60,0,0.0146627565982405,0
+"James Potter","jame","The Prisoner of Azkaban",0,4092,31,0,0.00757575757575758,0
+"Filius Flitwick","flit","The Prisoner of Azkaban",0,4092,22,0,0.00537634408602151,0
+"Rubeus Hagrid","hagr","The Prisoner of Azkaban",0,4092,225,0,0.0549853372434018,0
+"Parvati Patil","parv","The Prisoner of Azkaban",1,4092,18,0.0555555555555556,0.00439882697947214,227.333333333333
+"Buckbeak","buck","The Prisoner of Azkaban",1,4092,82,0.0121951219512195,0.020039100684262,49.9024390243902
+"Cho Chang","choc","The Prisoner of Azkaban",0,4092,141,0,0.0344574780058651,0
+"Dean Thomas","dean","The Prisoner of Azkaban",1,4092,17,0.0588235294117647,0.0041544477028348,240.705882352941
+"Peeves","peev","The Prisoner of Azkaban",0,4092,18,0,0.00439882697947214,0
+"Percy Weasley","perc","The Prisoner of Azkaban",0,4092,63,0,0.0153958944281525,0
+"Seamus Finnagin","seam","The Prisoner of Azkaban",1,4092,18,0.0555555555555556,0.00439882697947214,227.333333333333
+"Sybill Trelawney","trel","The Prisoner of Azkaban",0,4092,80,0,0.0195503421309873,0
+"Greggory Goyle","goyl","The Prisoner of Azkaban",0,4092,35,0,0.00855327468230694,0
+"Madam Hooch","hooc","The Prisoner of Azkaban",0,4092,21,0,0.00513196480938416,0
+"Harry","harr","The Goblet of Fire",20,6803,2593,0.00771307365985345,0.381155372629722,52.472040107983
+"Hermione Granger","herm","The Goblet of Fire",2,6803,821,0.00243605359317905,0.120682052035867,16.5724725943971
+"Voldemort","vold","The Goblet of Fire",11,6803,197,0.0558375634517767,0.0289578127296781,379.862944162437
+"Ron Wealsey","ronw","The Goblet of Fire",3,6803,1193,0.00251466890192791,0.175363810083787,17.1072925398156
+"Severus Snape","snap","The Goblet of Fire",0,6803,205,0,0.0301337645156549,0
+"Albus Dumbledore","albu","The Goblet of Fire",1,6803,507,0.0019723865877712,0.0745259444362781,13.4181459566075
+"Draco Malfoy","drac","The Goblet of Fire",2,6803,22,0.0909090909090909,0.00323386741143613,618.454545454545
+"Neville Longbottom","nevi","The Goblet of Fire",0,6803,68,0,0.00999559018080259,0
+"Dementors","deme","The Goblet of Fire",3,6803,37,0.0810810810810811,0.00543877701014258,551.594594594595
+"Barty Crouch Jr.","croj","The Goblet of Fire",12,6803,24,0.5,0.00352785535793033,3401.5
+"Minerva McGonagall","mcgo","The Goblet of Fire",0,6803,92,0,0.0135234455387329,0
+"Sirius Black","siri","The Goblet of Fire",0,6803,181,0,0.0266059091577245,0
+"Ginny Wealsey","ginn","The Goblet of Fire",0,6803,43,0,0.00632074084962517,0
+"Thorfinn Rowle","rowl","The Goblet of Fire",0,6803,32,0,0.0047038071439071,0
+"Vincent Crabbe ","crab","The Goblet of Fire",0,6803,35,0,0.00514478906364839,0
+"Dobby","dobb","The Goblet of Fire",0,6803,114,0,0.016757312950169,0
+"Fred Weasley","fred","The Goblet of Fire",2,6803,181,0.0110497237569061,0.0266059091577245,75.1712707182321
+"George Weasley","geor","The Goblet of Fire",1,6803,154,0.00649350649350649,0.0226370718800529,44.1753246753247
+"Arthur Weasley","arth","The Goblet of Fire",1,6803,32,0.03125,0.0047038071439071,212.59375
+"Barty Crouch Sr.","cros","The Goblet of Fire",4,6803,24,0.166666666666667,0.00352785535793033,1133.83333333333
+"Filius Flitwick","flit","The Goblet of Fire",0,6803,13,0,0.00191092165221226,0
+"Amos Diggory","amos","The Goblet of Fire",3,6803,28,0.107142857142857,0.00411583125091871,728.892857142857
+"Rubeus Hagrid","hagr","The Goblet of Fire",0,6803,313,0,0.0460091136263413,0
+"Cedric Diggory","cedr","The Goblet of Fire",3,6803,304,0.00986842105263158,0.0446861678671174,67.1348684210526
+"Giants","gian","The Goblet of Fire",0,6803,14,0,0.00205791562545936,0
+"Parvati Patil","parv","The Goblet of Fire",0,6803,40,0,0.00587975892988387,0
+"Cho Chang","choc","The Goblet of Fire",0,6803,236,0,0.0346905776863149,0
+"Dean Thomas","dean","The Goblet of Fire",0,6803,24,0,0.00352785535793033,0
+"Viktor Krum","krum","The Goblet of Fire",2,6803,189,0.0105820105820106,0.0277818609437013,71.989417989418
+"Madame Maxime","maxi","The Goblet of Fire",0,6803,91,0,0.0133764515654858,0
+"Alastor Moody","mood","The Goblet of Fire",0,6803,314,0,0.0461561075995884,0
+"Peeves","peev","The Goblet of Fire",0,6803,28,0,0.00411583125091871,0
+"Percy Weasley","perc","The Goblet of Fire",0,6803,107,0,0.0157283551374394,0
+"Seamus Finnagin","seam","The Goblet of Fire",0,6803,26,0,0.00382184330442452,0
+"Sybill Trelawney","trel","The Goblet of Fire",0,6803,32,0,0.0047038071439071,0
+"Colin Creevey","coli","The Goblet of Fire",0,6803,25,0,0.00367484933117742,0
+"Fleur Delacour","fleu","The Goblet of Fire",1,6803,89,0.0112359550561798,0.0130824636189916,76.438202247191
+"Greggory Goyle","goyl","The Goblet of Fire",0,6803,48,0,0.00705571071586065,0
+"Lee Jordan","leej","The Goblet of Fire",0,6803,12,0,0.00176392767896516,0
+"Harry","harr","The Order of the Phoenix",26,9275,3509,0.00740951838130522,0.37832884097035,68.7232829866059
+"Hermione Granger","herm","The Order of the Phoenix",10,9275,1249,0.00800640512409928,0.13466307277628,74.2594075260208
+"Voldemort","vold","The Order of the Phoenix",3,9275,206,0.0145631067961165,0.0222102425876011,135.072815533981
+"Ron Wealsey","ronw","The Order of the Phoenix",8,9275,1526,0.00524246395806029,0.164528301886792,48.6238532110092
+"Bellatrix Lestrange","bell","The Order of the Phoenix",15,9275,53,0.283018867924528,0.00571428571428571,2625
+"Severus Snape","snap","The Order of the Phoenix",8,9275,326,0.0245398773006135,0.0351482479784367,227.60736196319
+"Albus Dumbledore","albu","The Order of the Phoenix",11,9275,574,0.0191637630662021,0.0618867924528302,177.743902439024
+"Boggart","bogg","The Order of the Phoenix",7,9275,11,0.636363636363636,0.00118598382749326,5902.27272727273
+"Draco Malfoy","drac","The Order of the Phoenix",1,9275,26,0.0384615384615385,0.00280323450134771,356.730769230769
+"Neville Longbottom","nevi","The Order of the Phoenix",16,9275,237,0.0675105485232067,0.0255525606469003,626.160337552743
+"Dolores Umbridge","umbr","The Order of the Phoenix",17,9275,537,0.031657355679702,0.0578975741239892,293.621973929237
+"Dementors","deme","The Order of the Phoenix",0,9275,88,0,0.00948787061994609,0
+"Molly Weasley","moll","The Order of the Phoenix",5,9275,35,0.142857142857143,0.00377358490566038,1325
+"Remus Lupin","remu","The Order of the Phoenix",1,9275,160,0.00625,0.0172506738544474,57.96875
+"Minerva McGonagall","mcgo","The Order of the Phoenix",0,9275,174,0,0.0187601078167116,0
+"Sirius Black","siri","The Order of the Phoenix",2,9275,552,0.0036231884057971,0.0595148247978437,33.6050724637681
+"Antonin Dolohov","dolo","The Order of the Phoenix",5,9275,12,0.416666666666667,0.00129380053908356,3864.58333333333
+"Ginny Wealsey","ginn","The Order of the Phoenix",3,9275,225,0.0133333333333333,0.0242587601078167,123.666666666667
+"Thorfinn Rowle","rowl","The Order of the Phoenix",0,9275,26,0,0.00280323450134771,0
+"Vincent Crabbe ","crab","The Order of the Phoenix",0,9275,38,0,0.00409703504043127,0
+"Dobby","dobb","The Order of the Phoenix",0,9275,46,0,0.00495956873315364,0
+"Fred Weasley","fred","The Order of the Phoenix",2,9275,315,0.00634920634920635,0.0339622641509434,58.8888888888889
+"George Weasley","geor","The Order of the Phoenix",3,9275,278,0.0107913669064748,0.0299730458221024,100.089928057554
+"Luna Lovegood","luna","The Order of the Phoenix",3,9275,137,0.0218978102189781,0.0147708894878706,203.102189781022
+"James Potter","jame","The Order of the Phoenix",5,9275,57,0.087719298245614,0.0061455525606469,813.59649122807
+"Arthur Weasley","arth","The Order of the Phoenix",0,9275,44,0,0.00474393530997305,0
+"Filius Flitwick","flit","The Order of the Phoenix",0,9275,25,0,0.00269541778975741,0
+"Kingsley Shacklebolt","king","The Order of the Phoenix",1,9275,45,0.0222222222222222,0.00485175202156334,206.111111111111
+"Nymphadora Tonks","tonk","The Order of the Phoenix",2,9275,102,0.0196078431372549,0.0109973045822102,181.862745098039
+"Rubeus Hagrid","hagr","The Order of the Phoenix",0,9275,416,0,0.0448517520215633,0
+"Gilderoy Lockhart","lock","The Order of the Phoenix",0,9275,18,0,0.00194070080862534,0
+"Cedric Diggory","cedr","The Order of the Phoenix",0,9275,35,0,0.00377358490566038,0
+"Ernie MacMillion","erni","The Order of the Phoenix",1,9275,31,0.032258064516129,0.00334231805929919,299.193548387097
+"Fawkes","","The Order of the Phoenix",0,9275,14,0,0.00150943396226415,0
+"Giants","gian","The Order of the Phoenix",0,9275,27,0,0.00291105121293801,0
+"Kreacher","krea","The Order of the Phoenix",0,9275,91,0,0.00981132075471698,0
+"Parvati Patil","parv","The Order of the Phoenix",1,9275,45,0.0222222222222222,0.00485175202156334,206.111111111111
+"Centaurs","cent","The Order of the Phoenix",0,9275,36,0,0.00388140161725067,0
+"Cho Chang","choc","The Order of the Phoenix",2,9275,379,0.00527704485488127,0.0408625336927224,48.9445910290237
+"Dean Thomas","dean","The Order of the Phoenix",0,9275,50,0,0.00539083557951483,0
+"Alastor Moody","mood","The Order of the Phoenix",1,9275,92,0.0108695652173913,0.00991913746630728,100.815217391304
+"Peeves","peev","The Order of the Phoenix",0,9275,26,0,0.00280323450134771,0
+"Percy Weasley","perc","The Order of the Phoenix",0,9275,55,0,0.00592991913746631,0
+"Seamus Finnagin","seam","The Order of the Phoenix",0,9275,55,0,0.00592991913746631,0
+"Sybill Trelawney","trel","The Order of the Phoenix",0,9275,82,0,0.00884097035040431,0
+"Greggory Goyle","goyl","The Order of the Phoenix",0,9275,49,0,0.00528301886792453,0
+"Grawp","graw","The Order of the Phoenix",0,9275,42,0,0.00452830188679245,0
+"Lee Jordan","leej","The Order of the Phoenix",0,9275,13,0,0.00140161725067385,0
+"Mundungus Fletcher","mund","The Order of the Phoenix",0,9275,57,0,0.0061455525606469,0
+"Harry","harr","The Half-Blood Prince",33,6654,2289,0.0144167758846658,0.344003606853021,95.9292267365662
+"Hermione Granger","herm","The Half-Blood Prince",4,6654,635,0.0062992125984252,0.0954313195070634,41.9149606299213
+"Voldemort","vold","The Half-Blood Prince",15,6654,218,0.0688073394495413,0.0327622482717163,457.844036697248
+"Ron Wealsey","ronw","The Half-Blood Prince",3,6654,974,0.00308008213552361,0.146378118425008,20.4948665297741
+"Bellatrix Lestrange","bell","The Half-Blood Prince",2,6654,11,0.181818181818182,0.00165314096783889,1209.81818181818
+"Severus Snape","snap","The Half-Blood Prince",12,6654,265,0.0452830188679245,0.0398256687706643,301.31320754717
+"Albus Dumbledore","albu","The Half-Blood Prince",9,6654,853,0.0105509964830012,0.12819356777878,70.2063305978898
+"Draco Malfoy","drac","The Half-Blood Prince",10,6654,54,0.185185185185185,0.00811541929666366,1232.22222222222
+"Neville Longbottom","nevi","The Half-Blood Prince",1,6654,61,0.0163934426229508,0.00916741809437932,109.081967213115
+"Dolores Umbridge","umbr","The Half-Blood Prince",0,6654,12,0,0.0018034265103697,0
+"Dementors","deme","The Half-Blood Prince",0,6654,16,0,0.00240456868049294,0
+"Molly Weasley","moll","The Half-Blood Prince",0,6654,15,0,0.00225428313796213,0
+"Remus Lupin","remu","The Half-Blood Prince",0,6654,67,0,0.0100691313495642,0
+"Minerva McGonagall","mcgo","The Half-Blood Prince",0,6654,80,0,0.0120228434024647,0
+"Sirius Black","siri","The Half-Blood Prince",1,6654,45,0.0222222222222222,0.00676284941388638,147.866666666667
+"Ginny Wealsey","ginn","The Half-Blood Prince",2,6654,208,0.00961538461538462,0.0312593928464082,63.9807692307692
+"Vincent Crabbe ","crab","The Half-Blood Prince",0,6654,27,0,0.00405770964833183,0
+"Dobby","dobb","The Half-Blood Prince",1,6654,23,0.0434782608695652,0.0034565674782086,289.304347826087
+"Fred Weasley","fred","The Half-Blood Prince",0,6654,75,0,0.0112714156898106,0
+"George Weasley","geor","The Half-Blood Prince",0,6654,60,0,0.00901713255184851,0
+"Luna Lovegood","luna","The Half-Blood Prince",0,6654,56,0,0.00841599038172528,0
+"Arthur Weasley","arth","The Half-Blood Prince",0,6654,19,0,0.00285542530808536,0
+"Filius Flitwick","flit","The Half-Blood Prince",0,6654,16,0,0.00240456868049294,0
+"Nymphadora Tonks","tonk","The Half-Blood Prince",0,6654,58,0,0.0087165614667869,0
+"Rubeus Hagrid","hagr","The Half-Blood Prince",0,6654,197,0,0.0296062518785693,0
+"Ernie MacMillion","erni","The Half-Blood Prince",1,6654,18,0.0555555555555556,0.00270513976555455,369.666666666667
+"Fernir Greyback","grey","The Half-Blood Prince",1,6654,23,0.0434782608695652,0.0034565674782086,289.304347826087
+"Kreacher","krea","The Half-Blood Prince",0,6654,35,0,0.0052599939885783,0
+"Morfin Guant","morf","The Half-Blood Prince",3,6654,51,0.0588235294117647,0.00766456266907124,391.411764705882
+"Parvati Patil","parv","The Half-Blood Prince",0,6654,16,0,0.00240456868049294,0
+"Horace Slughorn","slug","The Half-Blood Prince",2,6654,364,0.00549450549450549,0.0547039374812143,36.5604395604396
+"Cho Chang","choc","The Half-Blood Prince",0,6654,228,0,0.0342651036970243,0
+"Dean Thomas","dean","The Half-Blood Prince",0,6654,47,0,0.007063420498948,0
+"Peeves","peev","The Half-Blood Prince",1,6654,11,0.0909090909090909,0.00165314096783889,604.909090909091
+"Percy Weasley","perc","The Half-Blood Prince",0,6654,18,0,0.00270513976555455,0
+"Seamus Finnagin","seam","The Half-Blood Prince",0,6654,17,0,0.00255485422302374,0
+"Sybill Trelawney","trel","The Half-Blood Prince",0,6654,38,0,0.00571085061617072,0
+"Fleur Delacour","fleu","The Half-Blood Prince",0,6654,45,0,0.00676284941388638,0
+"Greggory Goyle","goyl","The Half-Blood Prince",0,6654,34,0,0.00510970844604749,0
+"Marvolo Guant","marv","The Half-Blood Prince",1,6654,51,0.0196078431372549,0.00766456266907124,130.470588235294
+"Mundungus Fletcher","mund","The Half-Blood Prince",0,6654,20,0,0.00300571085061617,0
+"Bob Ogden","ogde","The Half-Blood Prince",1,6654,58,0.0172413793103448,0.0087165614667869,114.724137931034
+"Harry","harr","The Deathly Hallows",48,6861,2608,0.0184049079754601,0.380119516105524,126.276073619632
+"Hermione Granger","herm","The Deathly Hallows",44,6861,1128,0.0390070921985816,0.164407520769567,267.627659574468
+"Voldemort","vold","The Deathly Hallows",31,6861,406,0.0763546798029557,0.0591750473691882,523.869458128079
+"Ron Wealsey","ronw","The Deathly Hallows",16,6861,1303,0.012279355333845,0.189914006704562,84.2486569455104
+"Bellatrix Lestrange","bell","The Deathly Hallows",12,6861,90,0.133333333333333,0.0131176213379974,914.8
+"Severus Snape","snap","The Deathly Hallows",5,6861,285,0.0175438596491228,0.0415391342369917,120.368421052632
+"Albus Dumbledore","albu","The Deathly Hallows",2,6861,483,0.0041407867494824,0.0703979011805859,28.4099378881988
+"Draco Malfoy","drac","The Deathly Hallows",4,6861,53,0.0754716981132075,0.00772482145459846,517.811320754717
+"Neville Longbottom","nevi","The Deathly Hallows",2,6861,81,0.0246913580246914,0.0118058592041976,169.407407407407
+"Dolores Umbridge","umbr","The Deathly Hallows",0,6861,42,0,0.00612155662439878,0
+"Dementors","deme","The Deathly Hallows",4,6861,43,0.0930232558139535,0.00626730797259875,638.232558139535
+"Remus Lupin","remu","The Deathly Hallows",2,6861,168,0.0119047619047619,0.0244862264975951,81.6785714285714
+"Minerva McGonagall","mcgo","The Deathly Hallows",9,6861,65,0.138461538461538,0.00947383763299811,949.984615384615
+"Sirius Black","siri","The Deathly Hallows",0,6861,56,0,0.00816207549919837,0
+"Nagini","nagi","The Deathly Hallows",8,6861,19,0.421052631578947,0.00276927561579945,2888.84210526316
+"Peter Pettigrew","worm","The Deathly Hallows",2,6861,11,0.181818181818182,0.00160326483019968,1247.45454545455
+"Antonin Dolohov","dolo","The Deathly Hallows",2,6861,17,0.117647058823529,0.0024777729193995,807.176470588235
+"Ginny Wealsey","ginn","The Deathly Hallows",2,6861,112,0.0178571428571429,0.0163241509983967,122.517857142857
+"Thorfinn Rowle","rowl","The Deathly Hallows",1,6861,23,0.0434782608695652,0.00335228100859933,298.304347826087
+"Vincent Crabbe ","crab","The Deathly Hallows",6,6861,27,0.222222222222222,0.00393528640139921,1524.66666666667
+"Dobby","dobb","The Deathly Hallows",2,6861,40,0.05,0.00583005392799883,343.05
+"Fred Weasley","fred","The Deathly Hallows",2,6861,89,0.0224719101123595,0.0129718699897974,154.179775280899
+"George Weasley","geor","The Deathly Hallows",2,6861,69,0.0289855072463768,0.010056843025798,198.869565217391
+"Luna Lovegood","luna","The Deathly Hallows",3,6861,134,0.0223880597014925,0.0195306806587961,153.60447761194
+"James Potter","jame","The Deathly Hallows",0,6861,52,0,0.00757907010639848,0
+"Aberforth Dumbledore","aber","The Deathly Hallows",4,6861,67,0.0597014925373134,0.00976534032939805,409.611940298507
+"Arthur Weasley","arth","The Deathly Hallows",2,6861,21,0.0952380952380952,0.00306077831219939,653.428571428571
+"Filius Flitwick","flit","The Deathly Hallows",4,6861,21,0.19047619047619,0.00306077831219939,1306.85714285714
+"Kingsley Shacklebolt","king","The Deathly Hallows",3,6861,46,0.0652173913043478,0.00670456201719866,447.45652173913
+"Nymphadora Tonks","tonk","The Deathly Hallows",2,6861,78,0.0256410256410256,0.0113686051595977,175.923076923077
+"Rubeus Hagrid","hagr","The Deathly Hallows",1,6861,147,0.00680272108843537,0.0214254481853957,46.6734693877551
+"Fernir Greyback","grey","The Deathly Hallows",3,6861,63,0.0476190476190476,0.00918233493659816,326.714285714286
+"Gellert Grindelvald","grin","The Deathly Hallows",3,6861,46,0.0652173913043478,0.00670456201719866,447.45652173913
+"Kreacher","krea","The Deathly Hallows",3,6861,86,0.0348837209302326,0.0125346159451975,239.337209302326
+"Morfin Guant","morf","The Deathly Hallows",0,6861,11,0,0.00160326483019968,0
+"Horace Slughorn","slug","The Deathly Hallows",1,6861,12,0.0833333333333333,0.00174901617839965,571.75
+"Alecto Carrow","alec","The Deathly Hallows",2,6861,13,0.153846153846154,0.00189476752659962,1055.53846153846
+"Cho Chang","choc","The Deathly Hallows",0,6861,182,0,0.0265267453723947,0
+"Dean Thomas","dean","The Deathly Hallows",1,6861,40,0.025,0.00583005392799883,171.525
+"Viktor Krum","krum","The Deathly Hallows",0,6861,34,0,0.00495554583879901,0
+"Alastor Moody","mood","The Deathly Hallows",1,6861,29,0.0344827586206897,0.00422678909779915,236.586206896552
+"Narcissa Malfoy","narc","The Deathly Hallows",1,6861,19,0.0526315789473684,0.00276927561579945,361.105263157895
+"Percy Weasley","perc","The Deathly Hallows",2,6861,29,0.0689655172413793,0.00422678909779915,473.172413793103
+"Seamus Finnagin","seam","The Deathly Hallows",1,6861,11,0.0909090909090909,0.00160326483019968,623.727272727273
+"Yaxley","yaxl","The Deathly Hallows",2,6861,52,0.0384615384615385,0.00757907010639848,263.884615384615
+"Fleur Delacour","fleu","The Deathly Hallows",0,6861,104,0,0.015158140212797,0
+"Greggory Goyle","goyl","The Deathly Hallows",1,6861,26,0.0384615384615385,0.00378953505319924,263.884615384615
+"Marvolo Guant","marv","The Deathly Hallows",0,6861,11,0,0.00160326483019968,0
+"Mundungus Fletcher","mund","The Deathly Hallows",0,6861,42,0,0.00612155662439878,0
